@@ -1,0 +1,8 @@
+[build]
+builder = "NIXPACKS"
+buildCommand = "npm install"
+
+[deploy]
+startCommand = "npm start"
+healthcheckPath = "/api/admin/vendors" # Using an existing route as a simple check if needed, or simply let it ping TCP port
+healthcheckTimeout = 100

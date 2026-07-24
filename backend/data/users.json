@@ -1,0 +1,48 @@
+[
+  {
+    "id": "admin_001",
+    "name": "Admin",
+    "email": "admin@simplystore.com",
+    "password": "$2b$10$XLU3MK5MaGO6.CZAjFL2X.85bW6O9YhkSv5k0YkDgWsql/1nsCOgi",
+    "role": "admin",
+    "wishlist": []
+  },
+  {
+    "id": "user_1783780543697",
+    "role": "customer",
+    "wishlist": [
+      "p1"
+    ],
+    "name": "John Customer",
+    "email": "customer@simplystore.com",
+    "password": "$2b$10$yiBDICC7.8teK7sOfnhUBOXyDCFiJaqnu6JRMqC3VK1H/KJTGF/jq"
+  },
+  {
+    "id": "user_1783780561387",
+    "role": "vendor",
+    "wishlist": [],
+    "name": "Jane Vendor",
+    "email": "vendor@simplystore.com",
+    "password": "$2b$10$dFQzz6/cG9RoHCD942sTD.N9juRlHokmQoVlD8kK7B1jSw1CdXHz2",
+    "shopName": "Apex Electronics",
+    "approved": true
+  },
+  {
+    "id": "user_1783785757615",
+    "role": "vendor",
+    "wishlist": [],
+    "name": "Pritam Mondal",
+    "email": "pritam07mondal@hotmail.com",
+    "password": "$2b$10$JuOA.lGXN8HRHe3tsHUKg.16CD8mwIKp4RnRcrIstgZ17YG4OO7WS",
+    "shopName": "artlinger",
+    "approved": true
+  },
+  {
+    "id": "user_1783785943118",
+    "role": "customer",
+    "wishlist": [],
+    "name": "Pritam Mondal",
+    "email": "pritammondal11m@gmail.com",
+    "password": "$2b$10$pK6oUEmUJveAeDyljAx0.uh8iPfrLoFKj2LTIa66L/QWghke3vCSK"
+  }
+]

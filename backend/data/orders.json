@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ord_1783780556690",
+    "status": "Pending",
+    "createdAt": "2026-07-11T14:35:56.690Z",
+    "userId": "user_1783780543697",
+    "items": [
+      {
+        "id": "p1",
+        "name": "iPhone 15 Pro Max",
+        "price": 1199,
+        "quantity": 1,
+        "selectedColor": "Natural Titanium",
+        "selectedSize": "128GB"
+      }
+    ],
+    "shippingDetails": {
+      "fullName": "John Customer",
+      "email": "customer@simplystore.com",
+      "address": "123 Premium Way",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94103",
+      "phone": "555-0199"
+    },
+    "paymentMethod": "Credit Card",
+    "total": 1199,
+    "tracking": "TRK-1783780556689"
+  },
+  {
+    "id": "ord_1783786067531",
+    "status": "Pending",
+    "createdAt": "2026-07-11T16:07:47.531Z",
+    "userId": "user_1783785943118",
+    "items": [
+      {
+        "id": "p1",
+        "name": "iPhone 15 Pro Max",
+        "price": 1199,
+        "quantity": 1,
+        "selectedColor": "Natural Titanium",
+        "selectedSize": "128GB"
+      },
+      {
+        "id": "p2",
+        "name": "MacBook Air M3",
+        "price": 1099,
+        "quantity": 1,
+        "selectedColor": "Midnight",
+        "selectedSize": "256GB"
+      }
+    ],
+    "shippingDetails": {
+      "fullName": "Pritam Mondal",
+      "email": "pritammondal11m@gmail.com",
+      "address": "Madhyamgram",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zipCode": "700129",
+      "phone": "8274017945"
+    },
+    "paymentMethod": "Credit Card",
+    "total": 2298,
+    "tracking": "TRK-1783786067530"
+  }
+]
